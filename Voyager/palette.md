@@ -1,0 +1,11 @@
+# Voyager Terminal Colors
+- Mustard Cream
+	- `#CDB972` 
+- Yellow
+	- `#F7EE51`
+- Pale Yellow
+	- `#FCFDCA`
+- Light Blue
+	- `#619CFA`
+- Lighter Blue
+	- `#8CC2F0`
